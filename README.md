@@ -4,7 +4,9 @@ iOS App in Swift and SwiftUI and Combined created, from scratch, an iPhone appli
 
 ## Demo
 
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-13 at 15 53 41](https://github.com/user-attachments/assets/6cfd24ae-1b9b-432b-8875-a59292e86aeb)
+<img width="30%" alt="Simulator Screenshot - iPhone 16 Pro - 2024-12-13 at 15 40 14" src="https://github.com/user-attachments/assets/40060aed-b616-493b-8f7d-eeb4eae245c1" />
+<img width="30%" alt="Simulator Screenshot - iPhone 16 Pro - 2024-12-13 at 15 53 41" src="https://github.com/user-attachments/assets/6cfd24ae-1b9b-432b-8875-a59292e86aeb" />
+<img width="30%" alt="Simulator Screenshot - iPhone 16 Pro - 2024-12-13 at 16 01 15" src="https://github.com/user-attachments/assets/e51bf6f0-eec6-48b2-9a33-d06dbbe7058e" />
 
 https://github.com/user-attachments/assets/df71ff8d-eea0-4087-9f4f-67ad6153b7a9
 
