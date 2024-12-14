@@ -40,7 +40,7 @@ struct MovieFeedView: View {
             .cornerRadius(10)
             .padding(.horizontal)
             .accessibility(label: Text("SearchBar"))
-            .accessibility(hint: Text("Input words to find pictures using flicker API"))
+            .accessibility(hint: Text("Input words to find movies using OMDb API"))
     }
     
     var movieList: some View {
